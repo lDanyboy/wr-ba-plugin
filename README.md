@@ -1,2 +1,2 @@
 # Example
-An example greeter plugin
+Only for the ones that want to go fast.
